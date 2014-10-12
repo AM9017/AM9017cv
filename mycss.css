@@ -1,0 +1,103 @@
+/* 
+    Created on : 12 Οκτ 2014, 9:37:07 μμ
+    Author     : popi
+*/
+html{
+    background-color: #FAFAD2;
+}
+
+body {
+    color:black;
+    width: 1400px;
+    height: 1600px;
+    font-family: Times New Roman,Arial;
+    font-size: 100%;
+}
+
+h1 { 
+    margin-top: 40px;
+    color: #4169E1;
+    text-shadow:2px 2px #B0E0E6;
+    text-align:center;
+    text-decoration: underline;
+}
+        
+#persinfo {
+    position: absolute;
+    left: 50px;
+    margin-top: 90px;
+    color: #4169E1;
+    font-size: 150%;
+}
+
+#edu {
+    position: absolute;
+    left: 50px;
+    margin-top: 400px;
+    color: #4169E1;
+    font-size: 150%;
+}
+
+#perskills {
+    position: absolute;
+    left: 50px;
+    margin-top: 580px;
+    color: #4169E1;
+    font-size: 150%;
+}
+
+#work {
+    position: absolute;
+    left: 50px;
+    margin-top: 980px;
+    color: #4169E1;
+    font-size: 150%;
+}
+
+#addinfo {
+    position: absolute;
+    left: 50px;
+    margin-top: 1220px;
+    color: #4169E1;
+    font-size: 150%;
+}
+
+#persinfo2 {
+    position: absolute;
+    left: 400px;
+    margin-top: 90px;
+    color: black;
+    font-size: 180%;
+}
+
+#edu2 {
+    position: absolute;
+    left: 400px;
+    margin-top: 400px;
+    color: black;
+    font-size: 180%;
+}
+
+#perskills2 {
+    position: absolute;
+    left: 400px;
+    margin-top: 580px;
+    color: black;
+    font-size: 180%;
+}
+
+#work2 {
+    position: absolute;
+    left: 400px;
+    margin-top: 980px;
+    color: black;
+    font-size: 180%;
+}
+
+#addinfo2 {
+    position: absolute;
+    left: 400px;
+    margin-top: 1220px;
+    color: black;
+    font-size: 180%;
+}
